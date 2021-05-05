@@ -23,3 +23,7 @@ button{
 input:focus{
   outline: none;
 }
+.todo_item{
+background-color: rgb(177, 177, 177);
+
+}
